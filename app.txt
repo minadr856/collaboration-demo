@@ -1,2 +1,6 @@
 Collaboration Demo Project
 Version 1.0
+
+Features:
+ - Collaborative editing
+ - CI integration
